@@ -10,7 +10,8 @@
 </p>
 
 <!-- header:start -->
-![Version 1.0.0](https://img.shields.io/badge/version-1.0.0-6EC4A0?style=flat-square) ![Minecraft 1.21.1 | 1.21.11 | 26.3](https://img.shields.io/badge/Minecraft-1.21.1%20%7C%201.21.11%20%7C%2026.3-62B47A?style=flat-square) ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square) ![NeoForge](https://img.shields.io/badge/NeoForge-F16436?style=flat-square) [![Modrinth downloads](https://img.shields.io/modrinth/dt/sticky-notes?style=flat-square&logo=modrinth&label=Modrinth&color=1BD96A)](https://modrinth.com/mod/sticky-notes) [![CurseForge downloads](https://img.shields.io/curseforge/dt/1812204?style=flat-square&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/sticky-notes) [![GitHub downloads](https://img.shields.io/github/downloads/CptGummiball/StickyNotes/total?style=flat-square&logo=github&label=GitHub)](https://github.com/CptGummiball/StickyNotes/releases)
+
+![Version 1.0.1](https://img.shields.io/badge/version-1.0.1-6EC4A0?style=flat-square) ![Minecraft 1.21.1 | 1.21.11 | 26.3](https://img.shields.io/badge/Minecraft-1.21.1%20%7C%201.21.11%20%7C%2026.3-62B47A?style=flat-square) ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=flat-square) ![NeoForge](https://img.shields.io/badge/NeoForge-F16436?style=flat-square) [![Modrinth downloads](https://img.shields.io/modrinth/dt/sticky-notes?style=flat-square&logo=modrinth&label=Modrinth&color=1BD96A)](https://modrinth.com/mod/sticky-notes) [![CurseForge downloads](https://img.shields.io/curseforge/dt/1812204?style=flat-square&logo=curseforge&label=CurseForge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/sticky-notes) [![GitHub downloads](https://img.shields.io/github/downloads/CptGummiball/StickyNotes/total?style=flat-square&logo=github&label=GitHub)](https://github.com/CptGummiball/StickyNotes/releases)
 
 *   [Wiki](https://github.com/CptGummiball/StickyNotes/wiki)
 *   [Supported versions](https://github.com/CptGummiball/StickyNotes/wiki/Supported-Versions)
@@ -48,9 +49,9 @@ when the chunk loads again.
 
 | Minecraft | Fabric jar | NeoForge jar |
 |---|---|---|
-| 1.21.1 | `stickynotes-1.0.0+mc1.21.1-fabric.jar` | `stickynotes-1.0.0+mc1.21.1-neoforge.jar` |
-| 1.21.11 | `stickynotes-1.0.0+mc1.21.11-fabric.jar` | `stickynotes-1.0.0+mc1.21.11-neoforge.jar` |
-| 26.3 | `stickynotes-1.0.0+mc26.3-fabric.jar` | `stickynotes-1.0.0+mc26.3-neoforge.jar` |
+| 1.21.1 | `stickynotes-1.0.1+mc1.21.1-fabric.jar` | `stickynotes-1.0.1+mc1.21.1-neoforge.jar` |
+| 1.21.11 | `stickynotes-1.0.1+mc1.21.11-fabric.jar` | `stickynotes-1.0.1+mc1.21.11-neoforge.jar` |
+| 26.3 | `stickynotes-1.0.1+mc26.3-fabric.jar` | `stickynotes-1.0.1+mc26.3-neoforge.jar` |
 
 "Tested" means, for every listed version: client and dedicated server started, all automated game
 tests passed, and the core flows were played in a real client. The exact loader versions are listed in

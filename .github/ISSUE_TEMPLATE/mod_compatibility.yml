@@ -65,7 +65,7 @@ body:
     id: versions
     attributes:
       label: Sticky Notes jar and loader version
-      placeholder: "stickynotes-1.0.0+mc1.21.1-neoforge.jar, NeoForge 21.1.252"
+      placeholder: "stickynotes-1.0.1+mc1.21.1-neoforge.jar, NeoForge 21.1.252"
     validations:
       required: true
 

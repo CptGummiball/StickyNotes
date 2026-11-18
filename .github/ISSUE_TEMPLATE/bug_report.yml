@@ -50,7 +50,7 @@ body:
     attributes:
       label: Sticky Notes jar and loader version
       description: The exact file name of the Sticky Notes jar, and the Fabric Loader + Fabric API or NeoForge version.
-      placeholder: "stickynotes-1.0.0+mc26.2-fabric.jar, Fabric Loader 0.19.5, Fabric API 0.161.0+26.2"
+      placeholder: "stickynotes-1.0.1+mc26.3-fabric.jar, Fabric Loader 0.19.5, Fabric API 0.165.2+26.3"
     validations:
       required: true
 
